@@ -1,4 +1,4 @@
-# FairCall AI - Hackalytics 2025
+# FairCall AI
 
 
 **FairCall AI** is aimed to analyze NFL penalty(pass interference)footage by extracting frames and detecting key objects such as people and moving elements using YOLO. Additionally, an LLM was used to generate explanations for whether a pass interference call should be made. The final product provides an automated system to identify players, track movement, recognize physical interactions, and generate explanations for key events based on the detected patterns. 
